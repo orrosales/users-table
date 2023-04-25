@@ -1,0 +1,18 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
+}
+table {
+  width: 100%;
+  margin-top: 10px;
+}
+
+header button {
+  margin-right: 10px;
+}
+
+.pointer {
+  cursor: pointer;
+}
